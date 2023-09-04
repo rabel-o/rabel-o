@@ -1,5 +1,6 @@
-Student of Information Systems at Universidade Federal do Ceará;
-I'll post my codes here to archive them.
+Student of Information Systems at Universidade Federal do Ceará
+Currently leraning skills with different languages
+Often building stuff with Back-end
 
 
 <!---
